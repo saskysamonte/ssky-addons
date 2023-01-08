@@ -1,7 +1,8 @@
 # sSky - Ultimate Addons for WordPress and WooCommerce 
 
-Coming Soon...
-Features
+<p>Coming Soon...</p>
+
+<h4>Features</h4>
 <ul>
   <li>Real time Mini Cart</li>
   <li>Google reCaptcha on Product Review</li>
